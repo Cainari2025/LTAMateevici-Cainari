@@ -1,4 +1,4 @@
-//initializam elementele din galerie sa fie clickabilepe site
+//initializam elementele din galerie sa fie clickabile pe site
 new SimpleLightbox({elements: ".galerie-container a"});
 
 new SimpleLightbox({elements: ".orar-imagini a"});
